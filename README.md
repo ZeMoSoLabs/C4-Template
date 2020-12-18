@@ -1,5 +1,9 @@
 How to use?
 
+Warch Video here https://www.loom.com/share/09ed1bac30454aa5a17d0d54368b6b56
+
+OR 
+
 Just Click on the below link
 
 https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/ZeMoSoLabs/C4-Template/main/ZeMoSo-C4&splash=0
